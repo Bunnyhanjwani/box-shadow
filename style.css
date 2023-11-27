@@ -1,0 +1,35 @@
+.a{
+    background-color: aquamarine;
+    margin: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 10px  blue ;
+    border: 10px groove black;
+    padding: 20px;
+    
+    
+    
+    
+    }
+    
+    ul>li{
+    background-color: yellow;
+    display: inline-block;
+    width: 100px;
+    box-shadow: 10px 10px 10px black;
+    text-align: center;
+    margin: 40px;
+    }
+    
+    .abc{
+        background-color: violet;
+        box-shadow: 10px 10px 10px 10px aqua;
+        text-align: center;
+        border-color: yellow;
+        border-width: 20px;
+        border-style:ridge;
+        box-shadow: 0px 0px 25px black ;
+    
+    
+    }
+    
+    
